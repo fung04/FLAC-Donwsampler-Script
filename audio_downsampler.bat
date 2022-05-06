@@ -1,6 +1,6 @@
 @ECHO OFF
 
-set /p bit_depth="Enter bit depth(16/24): "
+set /p bit_depth="Enter bit depth(16/32): "
 set /p sample_rate="Enter sample rate(44100/48000/96000): "
 
 md export
